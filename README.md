@@ -42,3 +42,7 @@ Modern Analytics Theme redesign of the original SmartBudget Android/Kotlin SQLit
 
 ## Design notes
 This direction gives the same budgeting application a different market position without changing the database or business rules. It is intended for visual comparison before choosing a final UI.
+
+youtube link:https://youtu.be/-CUHKtZ6dRM?si=FNmnjc610Mvlyww1
+
+GitHub repo: https://github.com/SiR-MUGWEDi/SpendScope-Modern-Personal-Budget-Tracker.git
